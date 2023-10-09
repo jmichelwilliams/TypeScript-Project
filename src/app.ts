@@ -111,6 +111,7 @@ class ProjectInput {
       value: +enteredPeople,
       required: true,
       min: 1,
+      max: 5,
     };
 
     if (
